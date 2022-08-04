@@ -39,7 +39,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+1 200 345 6789,
 		info@360degreesdevops.com
 		<br>
-		<a href="mailto:info@360degreesdevops.com">Mail to 360-Degrees DevOps Consulting</a>
+		<a href="mailto:info@360degreesdevops.com">Mail to 360-Degrees DevOps Technologies</a>
 	</span>
 </div>
 <hr>
