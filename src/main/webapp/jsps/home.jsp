@@ -9,9 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone will be hired </h1>
+<h1 align="center">Welcome to 360-Degrees DevOps Consulting, Saskatoon Office.</h1>
+<h1 align="center">We are developing and supporting quality software solutions to millions of clients globally</h1>
+<h1 align="center">We offer training and consultancy for DevOps with Linux and Cloud, equipping IT Engineers for best performance</h1>
+<h1 align="center">Here, you are in good hands!</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -33,20 +34,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DP black.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Acada Learning, 
-		Calgary, Alberta, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+                360-Degrees DevOps Consulting, 
+		Saskatoon, Saskatchewan, Canada
+		+1 200 345 6789,
+		info@360degreesdevops.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:info@360degreesdevops.com">Mail to 360-Degrees DevOps Consulting</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Acada Learning - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning</a> </small></p>
+<p align=center>360-Degrees DevOps - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2022 by <a href="https://360degreesdevops.com/">360-Degrees DevOps Technologies</a> </small></p>
 
 </body>
 </html>
