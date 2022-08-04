@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to 360-Degrees DevOps Consulting, Saskatoon Office.</h1>
+<h1 align="center">Welcome to 360-Degrees DevOps Technologies, Saskatoon Office.</h1>
 <h1 align="center">We are developing and supporting quality software solutions to millions of clients globally</h1>
 <h1 align="center">We offer training and consultancy for DevOps with Linux and Cloud, equipping IT Engineers for best performance</h1>
 <h1 align="center">Here, you are in good hands!</h1>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/DP black.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                360-Degrees DevOps Consulting, 
+                360-Degrees DevOps Technologies, 
 		Saskatoon, Saskatchewan, Canada
 		+1 200 345 6789,
 		info@360degreesdevops.com
@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>360-Degrees DevOps - Consultant, Training and Software Development</p>
+<p align=center>360-Degrees DevOps Technologies - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2022 by <a href="https://360degreesdevops.com/">360-Degrees DevOps Technologies</a> </small></p>
 
 </body>
